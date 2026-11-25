@@ -246,8 +246,8 @@
         "アクリルスタンド The Last Order 三船美優": "販売中",
         "アクリルスタンド The Last Order 大和亜季": "販売中",
         "アクリルスタンド The Last Order 鷹富士茄子": "販売中",
-        "缶バッジ The Last Order 高垣楓": "販売中",
-        "缶バッジ The Last Order 川島瑞樹": "販売中",
+        "缶バッジ The Last Order 高垣楓": "SOLD OUT",
+        "缶バッジ The Last Order 川島瑞樹": "SOLD OUT",
         "缶バッジ The Last Order 佐藤心": "販売中",
         "缶バッジ The Last Order 三船美優": "販売中",
         "缶バッジ  The Last Order 大和亜季": "販売中",
@@ -274,7 +274,7 @@
         "メタルステッカー　ぴにゃこら太 HUBコラボver.": "販売中",
         "栓抜き　ぴにゃこら太 HUBコラボver.": "販売中",
         "バーマット　ぴにゃこら太 HUBコラボver.": "販売中",
-        "パイントグラス　ぴにゃこら太　HUBコラボver.": "販売中"
+        "パイントグラス　ぴにゃこら太　HUBコラボver.": "SOLD OUT"
       }
     },
     {
@@ -318,6 +318,6 @@
       }
     }
   ],
-  "lastUpdated": "2026/11/25 01:48",
+  "lastUpdated": "2026/11/25 19:10",
   "backUrl": "https://www.pub-hub.com/temp/CINDERELLA_GIRLS2.pdf"
 }
